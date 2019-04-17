@@ -1,0 +1,2 @@
+# Research_Python
+Pythonについて気になったものを調査していくリポジトリ
