@@ -1,2 +1,2 @@
 # Research_Python
-Pythonについて気になったものを調査していくリポジトリ
+Pythonで気になったものを調査していくリポジトリ
